@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+<credentials
+  userName="awrelay"
+  password="awrelaypd5"
+  tenantCode="Vd+f93Funmc14v2s3c6UVTaaoFWiHL8RFR8fRGNjfZI="
+  host="https://emm-op-cn-l3.prod.fedex.com" />
+<applications>
+	<application name="LEO.Admin." />
+	<application name="LEO.ConnectedCourier." />
+	<application name="LEO.Cons." />
+	<application name="LEO.DataProvider." />
+	<application name="LEO.Messages." />
+	<application name="LEO.Packages." />
+	<application name="LEO.Sort." />
+	<application name="LEO.System." />
+	<application name="LEO.TimeCard." />
+	<application name="LEO.Transit." />
+	<application name="LEO.UXTest." />
+</applications>
+</parameters>
